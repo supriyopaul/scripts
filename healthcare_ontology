@@ -1,22 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T11:12:23.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Gyvb_3McdIeSzXUNcuV4" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T17:17:08.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="r6VQUZXZA5xtIdoza3WB" version="20.4.1" type="github">
   <diagram id="zbYUf71gXqWJxmu3WpLi" name="Page-1">
-    <mxGraphModel dx="1298" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2148" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hPzSV1DuyYM4rge1UeZa-1" value="&lt;b&gt;disease&lt;/b&gt;&lt;br&gt;{name: BrainSymbolicQuantity&lt;br&gt;severity:&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;BrainOrdinalQuantity&lt;br&gt;= high/low/intermidiete,&lt;/span&gt;&lt;br&gt;}" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry y="-30" width="190" height="190" as="geometry" />
+        <mxCell id="hPzSV1DuyYM4rge1UeZa-1" value="&lt;b&gt;disease&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;{&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;name&lt;/u&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: BrainSymbolicQuantity,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;&lt;u&gt;severity&lt;/u&gt;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;font-style: italic; background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;font-style: italic; background-color: initial;&quot;&gt;&amp;nbsp;BrainOrdinalQuantity&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;= high/low/intermidiete,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;i&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;context_gender&lt;/u&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: BrainSymbolicQuantiyty,&lt;/span&gt;&lt;/div&gt;&lt;/i&gt;&lt;i&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;contetxt_age&lt;/u&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: BrainRangeQuantity,&lt;/span&gt;&lt;/div&gt;&lt;/i&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="-90" width="250" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="hPzSV1DuyYM4rge1UeZa-2" value="&lt;b&gt;symptom&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="310" y="220" width="80" height="80" as="geometry" />
+        <mxCell id="hPzSV1DuyYM4rge1UeZa-2" value="&lt;b&gt;symptom&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;{&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;name&lt;/u&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: BrainSymbolicQuantity,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="160" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="hPzSV1DuyYM4rge1UeZa-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPzSV1DuyYM4rge1UeZa-1" target="hPzSV1DuyYM4rge1UeZa-2">
+        <mxCell id="hPzSV1DuyYM4rge1UeZa-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPzSV1DuyYM4rge1UeZa-7" target="hPzSV1DuyYM4rge1UeZa-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="470" as="sourcePoint" />
             <mxPoint x="450" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hPzSV1DuyYM4rge1UeZa-6" value="&lt;b&gt;has_symptom&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hPzSV1DuyYM4rge1UeZa-3">
+          <mxGeometry x="-0.1027" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hPzSV1DuyYM4rge1UeZa-7" value="&lt;b&gt;patient&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;{&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;name&lt;/u&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: BrainSymbolicQuantity,&lt;/span&gt;&lt;/div&gt;&lt;i&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;gender&lt;/u&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: BrainSymbolicQuantiyty,&lt;/span&gt;&lt;/div&gt;&lt;/i&gt;&lt;i&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;age&lt;/u&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: BrainRangeQuantity,&lt;/span&gt;&lt;/div&gt;&lt;/i&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-130" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="hPzSV1DuyYM4rge1UeZa-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPzSV1DuyYM4rge1UeZa-2" target="hPzSV1DuyYM4rge1UeZa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="130" as="sourcePoint" />
+            <mxPoint x="544.8528137423859" y="225.14718625761407" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hPzSV1DuyYM4rge1UeZa-9" value="&lt;b&gt;causes_disease&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hPzSV1DuyYM4rge1UeZa-8">
           <mxGeometry x="-0.1027" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
