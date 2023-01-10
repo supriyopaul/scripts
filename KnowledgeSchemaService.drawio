@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-01-10T07:38:48.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="I-wj_nxSAMxJ9vniaN9O" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-10T07:41:02.517Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6wzsgPhR12f6FQww2DOQ" version="20.7.4" type="github">
   <diagram id="8liCXzgkEdSbJFoIxL7y" name="Page-1">
     <mxGraphModel dx="1306" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UGJ1L-JOxJOwggU-99r5-2" value="Quantity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="60" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGJ1L-JOxJOwggU-99r5-3" value="Attribute-type" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="170" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGJ1L-JOxJOwggU-99r5-4" value="Name" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="350" width="80" height="80" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="280" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGJ1L-JOxJOwggU-99r5-7" value="Attribute-qualifier" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="280" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGJ1L-JOxJOwggU-99r5-8" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="60" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGJ1L-JOxJOwggU-99r5-9" value="Entity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="60" y="350" width="80" height="80" as="geometry" />
@@ -32,28 +32,25 @@
           <mxGeometry x="384" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGJ1L-JOxJOwggU-99r5-12" value="Unit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="170" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGJ1L-JOxJOwggU-99r5-13" value="Attribute-family" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="450" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UGJ1L-JOxJOwggU-99r5-14" value="Attribute-expression-program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="490" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UGJ1L-JOxJOwggU-99r5-16" value="Attribute-type" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="640" width="80" height="80" as="geometry" />
+        <mxCell id="UGJ1L-JOxJOwggU-99r5-16" value="Predicate-type" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="172" y="639" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UGJ1L-JOxJOwggU-99r5-17" value="Attribute-qualifier" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="80" height="80" as="geometry" />
+        <mxCell id="UGJ1L-JOxJOwggU-99r5-17" value="Predicate-qualifier" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="282" y="639" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UGJ1L-JOxJOwggU-99r5-18" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="640" width="80" height="80" as="geometry" />
+        <mxCell id="UGJ1L-JOxJOwggU-99r5-18" value="Predicate" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="62" y="639" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UGJ1L-JOxJOwggU-99r5-19" value="Attribute-family" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="380" y="640" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UGJ1L-JOxJOwggU-99r5-20" value="Attribute-expression-program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="490" y="640" width="80" height="80" as="geometry" />
+        <mxCell id="UGJ1L-JOxJOwggU-99r5-19" value="Predicate-family" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="382" y="639" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
